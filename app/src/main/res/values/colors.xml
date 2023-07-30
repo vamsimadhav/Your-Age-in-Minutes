@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#FEF1E0</color>
+    <color name="text_color">#844046</color>
+    <color name="ageText_background_color">#C846DCE0</color>
+    <color name="select_date_color">#929292</color>
+    <color name="light_gray">#B2B2B2</color>
+</resources>
